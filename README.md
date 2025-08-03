@@ -6,7 +6,7 @@ This project is a MongoDB-based CRUD (Create, Read, Update, Delete) application 
 ✅ Add Users – Users can upload their photo and email to the database.
 ✅ Retrieve Users – Fetch and display stored user details.
 ✅ Update Users – Modify existing user information such as name and email.
-✅ Delete Users – Remove a user from the database.
+✅ Delete Users – Remove a user from the database. 
 
 Tech Stack Used
 Backend: Node.js, Express.js
